@@ -39,5 +39,6 @@ nav .nav-right-section a {
 }
 
 nav .nav-right-section .menu-icon {
-    
+    background-image: url('https://images.app.goo.gl/oMHy7X6fiSTTzRyQ8');
+    background-repeat: no-repeat;
 }
