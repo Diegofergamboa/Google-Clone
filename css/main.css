@@ -94,5 +94,20 @@ main .main-input-container :hover {
 }
 
 main .main-input-container .source-icon {
-    
+    background-image: url('https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_search_48px-512.png');    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+}
+
+main .main-input-container .micro-icon {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/726px-Google_mic.svg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
 }
