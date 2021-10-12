@@ -129,4 +129,12 @@ main .main-buttons button {
     color: #5f6368;
     border-radius: 5px;
     padding: 0 15px;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+main .main-buttons button :hover {
+    border: 1px solid #c6c6c6;
+    box-shadow: 0 1px 1px #000001;
+    color: #2222;
 }
