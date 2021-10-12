@@ -39,6 +39,11 @@ nav .nav-right-section a {
 }
 
 nav .nav-right-section .menu-icon {
-    background-image: url('https://images.app.goo.gl/oMHy7X6fiSTTzRyQ8');
+    background-image: url('https://static.thenounproject.com/png/756729-200.png');
     background-repeat: no-repeat;
+    background-position: center ;
+    background-size: contain;
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
 }
