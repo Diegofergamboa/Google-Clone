@@ -80,3 +80,19 @@ main .main-input-container {
     justify-content: center;
     align-items: center;
 }
+
+main .main-input input {
+    width: 450px;
+    height: 40px;
+    border: none;
+    outline: none;
+}
+
+main .main-input-container :hover {
+    box-shadow: 0 1px 6px 0 #20212447;
+    border-color: #dfe1e500;
+}
+
+main .main-input-container .source-icon {
+    
+}
