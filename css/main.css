@@ -45,5 +45,9 @@ nav .nav-right-section .menu-icon {
     background-size: contain;
     width: 25px;
     height: 25px;
-    margin-right: 10px;
+}
+
+nav .nav-right-section img {
+    border-radius: 50%;
+    margin-left: 10px;
 }
