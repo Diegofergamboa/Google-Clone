@@ -149,3 +149,13 @@ main .main-buttons div :hover {
     color: #202124;
     max-width: auto;
 }
+
+footer {
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
